@@ -5,8 +5,8 @@ Who am I ?
 
 - 🔭 I’m currently working on a skate application, my portfolio.
 - 🌱 I’m currently learning backend development, all the web (TCP, Cache, TDD, API etc..), and JavaScript !
-
+---------------------
 - ⚡ Personal life : Code, Skateboard, relationships (family, friends) and eating is 80% of what I do during my week. 
 - 💬 I can't really live without Notion ...
-
+---------------------
 - 📫 How to reach me: tristanmonteiro97@gmail.com

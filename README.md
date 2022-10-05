@@ -9,4 +9,4 @@ Who am I ?
 - ⚡ Personal life : Code, Skateboard, relationships (family, friends) and eating is 80% of what I love and what I do during my week. 
 - 💬 I can't really live without Notion ...
 ---------------------
-- 📫 Reach me on Linkedin : https://wwww.linkedin.com/in/tristan-monteiro/
+- 📫 Reach me on Linkedin : https://www.linkedin.com/in/tristan-monteiro/
